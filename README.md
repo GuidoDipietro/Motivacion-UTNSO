@@ -6,7 +6,7 @@ Pero, al menos, lo peor no es lo peor. *Lo peor sería no tener motivación.* :s
 
 # Instrucciones
 
-## Ir al live REPL [en este link](https://replit.com/@GuidoDipietro/UTNSO-motivacion) y seguir los pasos en el Makefile.
+## Ir al live REPL [en este link](https://replit.com/@GuidoDipietro/UTNSO-motivacion) y seguir los pasos en el README.
 
 A meterle furia a estos sábados.
 
